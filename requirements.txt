@@ -1,0 +1,23 @@
+
+# LangChain
+langchain==1.0.5
+
+
+# OpenRouter integration
+langchain-openai
+langchain-openrouter==0.2.8
+
+# LangGraph workflow
+langgraph==1.0.3
+
+# Streamlit frontend
+streamlit==1.50.0
+
+# LangSmith monitoring
+langsmith==0.4.37
+
+# Data validation
+pydantic==2.12.3
+
+# Environment variables
+python-dotenv==1.1.1
